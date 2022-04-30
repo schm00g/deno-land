@@ -1,5 +1,10 @@
 Hello Deno 🌎
 
+to compile into single executable
+```
+deno compile <file>.ts
+```
+
 to explicitly allow network access privileges
 ```
 deno run --allow-net <file>.ts
